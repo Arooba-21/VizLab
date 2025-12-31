@@ -44,7 +44,8 @@ The goal of VizLab is to provide a **guided, all-in-one platform** for:
 VizLab/
 │
 ├── app.py               # Main Streamlit application
-├── Data/                # Sample datasets (optional)
+├── Data/             # Sample datasets (optional)
+│ └─ diamonds dataset.csv
 ├── requirements.txt     # Project dependencies
 └── README.md
 
@@ -74,13 +75,10 @@ streamlit run app.py
 
 ---
 
-## Project Demo
+## Demo
 
- Watch the full demo on YouTube:
-
-```text
-https://youtu.be/x5yIT5I1Gfo
-```
+Watch the project preview video on YouTube:  
+[VizLab Demo Video](https://youtu.be/x5yIT5I1Gfo)
 
 ---
 
