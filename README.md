@@ -79,7 +79,7 @@ streamlit run app.py
  Watch the full demo on YouTube:
 
 ```text
-https://youtu.be/YOUR_VIDEO_LINK
+https://youtu.be/x5yIT5I1Gfo
 ```
 
 ---
