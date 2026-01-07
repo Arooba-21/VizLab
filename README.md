@@ -108,4 +108,6 @@ Computer Science Student | Data & Visualization Enthusiast
 
 🔗 GitHub: [https://github.com/Arooba-21](https://github.com/Arooba-21)
 
+Licensed under the MIT License © 2026 Arooba Jawaid
+
 
